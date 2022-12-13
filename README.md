@@ -10,12 +10,12 @@ Get started documentation is at https://openweathermap.org/appid and we will be 
 
 ## Build and Start
 
-- `npm i `.
+- Package.json not ignored so you can just write to terminal `npm install`. Then
 - npm run start
 
 
 ## Preview
 <p align="center">
-![Screen Shot 2022-12-13 at 17 16 36](https://user-images.githubusercontent.com/86847572/207356522-48c29aba-834a-49cb-b8ce-2300f00979df.png)
 
+<img src="https://user-images.githubusercontent.com/86847572/207356522-48c29aba-834a-49cb-b8ce-2300f00979df.png" >
 </p>
