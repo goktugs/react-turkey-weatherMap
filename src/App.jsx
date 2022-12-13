@@ -5,6 +5,7 @@ function App() {
     <div className="min-h-screen bg-black flex items-center">
       <div className="w-screen">
         <TRMap />
+        <h1>deneme</h1>
       </div>
     </div>
   );
