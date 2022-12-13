@@ -1,4 +1,4 @@
-# react-turkey-weather-c802t41z1-goktugs.vercel.app
+react-turkey-weather-c802t41z1-goktugs.vercel.app
 
 
 # Weather App with React
