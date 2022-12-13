@@ -3,7 +3,7 @@ import TurkeyMap from 'turkey-map-react';
 import cities from '../data/cities.json';
 import { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { setLatitude, setLongtitude, setWeather } from '../redux/weatherSlice';
+import { setLatitude, setLongtitude, setWeather } from '../stores/weatherSlice';
 
 export default function TRMap() {
   const dispatch = useDispatch();
